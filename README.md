@@ -8,4 +8,11 @@
 2. Ahmir- **Firey son**
 3. Bailey- **Wildchild baby girl**
 
-### *D. Jolley*
+### About *D. Jolley*
+- Husband & father of 2
+- Sneaker Enthusiast
+- Army Veteran
+- Played slot reciever for Coastal Carolina Chanticleers
+- Would love to train/spar with Elijah
+
+
