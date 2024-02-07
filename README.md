@@ -18,8 +18,8 @@
 
 ## Code 102
 
-- [class 02] {./code-102-class.md}
-- [class 03] {./code-102-class03.md}
+- [class 02] (./code-102-class.md)
+- [class 03] (./code-102-class03.md)
 
 ## Code 201
 
