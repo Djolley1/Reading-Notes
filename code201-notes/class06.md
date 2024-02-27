@@ -1,0 +1,9 @@
+# Class 06
+
+How would you describe an object to a non-technical friend you grew up with?  it's like having a digital box where you can store and manage information about stuff, and you can easily find and use that information whenever you need it!"
+What are some advantages to creating object literals? JavaScript object literals are a powerful and convenient way to represent and manipulate data in a simple and flexible manner, which is beneficial for various scenarios, from rapid development to better code readability.
+How do objects differ from arrays? Objects are suitable for dealing with named properties, whereas arrays are more appropriate for handling ordered collections of similar items.
+Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation. Bracket notation is useful when you need to access an object's property dynamically or when the property name contains special characters, spaces, or starts with a number.
+Evaluate the code below. What does the term this refer to and what is the advantage to using this? this allows the humanAge method to reference the specific properties (name and age) of the dog object without hardcoding the object's name. This makes the code more reusable and adaptable to different instances of dog objects.
+What is the DOM? The Document Object Model (DOM) is a programming interface for web documents. It represents the page so that programs can change the document structure, style, and content.
+Briefly describe the relationship between the DOM and JavaScript. the DOM serves as a bridge between the structure of a web document and JavaScript, providing a means for JavaScript to interact with, manipulate, and dynamically update the content and presentation of a web page.
